@@ -1,2 +1,7 @@
-# ProgramacionOrientadaObjetos
-repo del curso de POO 2023-1
+# Programacion Orientadaa Objetos
+## Curso 2023-1
+### Elaborado por: Mendoza Rodríguez Ángel
+
+```
+El repositorio incluye las actividad y prácticas que realice en la materia
+```
