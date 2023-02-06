@@ -26,7 +26,7 @@ public class Alumno {
 
         //acceso a los atributos para imprimir
         System.out.print(Pepito.nombre + ", " +
-                         Pepito.edad + ", " + Pepito.peso + "\n");
+                Pepito.edad + ", " + Pepito.peso + "\n");
 
         //llamada al método
         Pepito.apruebaProgra();
@@ -36,7 +36,7 @@ public class Alumno {
         a2.peso = 43.7f;
 
         System.out.println(a2.nombre + ", " +
-                           a2.edad + ", " + a2.peso);
+                a2.edad + ", " + a2.peso);
         a2.apruebaProgra();
     }
 }

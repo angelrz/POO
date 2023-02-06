@@ -9,11 +9,11 @@ public class ArgumentosArreglo {
         float[] datos;
 
         System.out.println("Cantidad de arguementos: "
-                           + args.length);
+                + args.length);
 
         for (byte conde = 0; conde < args.length; conde++) {
             System.out.println("Elemento " + conde + ": "
-                               + args[conde]);
+                    + args[conde]);
         }
 
         datos = new float[args.length];
@@ -24,7 +24,7 @@ public class ArgumentosArreglo {
 
         for (byte conde = 0; conde <= 2; conde++) {
             System.out.println("Elemento " + conde + ": "
-                               + datos[conde]);
+                    + datos[conde]);
         }
 
         int cero = Integer.parseInt(args[0]);

@@ -14,9 +14,9 @@ public class Alumno {
         boolean desayuno = true;
 
         System.out.println("Nombre: " + nombre
-                           + "\nEdad: " + edad
-                           + "\nNumero de cuenta: " + numCuenta
-                           + "\nEstatura: " + estatura
-                           + "\nDesayuno: " + desayuno);
+                + "\nEdad: " + edad
+                + "\nNumero de cuenta: " + numCuenta
+                + "\nEstatura: " + estatura
+                + "\nDesayuno: " + desayuno);
     }
 }
